@@ -9,3 +9,12 @@ class addition
          System.out.println("sum of a&b is"+c);
         }
      }
+class division
+     {
+      public static void main (String args[])
+        {
+         int a=7,b=56,c;
+         c=a/b;
+         System.out.println("Quotient of a&b is"+c);
+        }
+     }
